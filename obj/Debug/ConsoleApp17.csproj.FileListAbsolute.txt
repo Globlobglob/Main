@@ -1,0 +1,8 @@
+H:\A1утка\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+H:\A1утка\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+H:\A1утка\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+H:\A1утка\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.AssemblyReference.cache
+H:\A1утка\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.SuggestedBindingRedirects.cache
+H:\A1утка\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.CoreCompileInputs.cache
+H:\A1утка\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+H:\A1утка\ConsoleApp17\obj\Debug\ConsoleApp17.pdb
